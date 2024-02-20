@@ -1,0 +1,15 @@
+/* Styling for logout button */
+.logout-btn {
+  background-color: #f44336; /* Red */
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Hover effect */
+.logout-btn:hover {
+  background-color: #d32f2f; /* Darker red */
+}
